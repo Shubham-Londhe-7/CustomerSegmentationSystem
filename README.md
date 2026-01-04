@@ -118,7 +118,6 @@ kmeans_customer_segmentation.joblib
 ## 👨‍💻 Author
 
 Shubham Londhe  
-Date: 10/11/2025
 
 ---
 
